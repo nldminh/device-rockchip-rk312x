@@ -1,5 +1,5 @@
 # Release name
-PRODUCT_RELEASE_NAME := __DEVICE__
+PRODUCT_RELEASE_NAME := RK312x
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
