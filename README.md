@@ -1,0 +1,1 @@
+# device-rockchip-rk312x
